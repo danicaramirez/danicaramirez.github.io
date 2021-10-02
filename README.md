@@ -43,8 +43,19 @@ Bicol University College of Engineering
   Undergraduate Scholarship Program
 
   2018-Present
+  
+  
+ ## Skill
+  - Basic Operations in Geographic Information System (GIS)
+  
+   ESRI’s ArcGIS 10.8 Software/QGIS 3.16 
+   
+   Performing Query, Geoprocessing, Digitizing, Map/Charts Display
+
+ 
 
 
+![94030942_3068527159881145_3658390887181844480_n](https://user-images.githubusercontent.com/90082311/135710164-4c26e29e-c3c0-43aa-b653-32b28b26e0c6.jpg)
 
 
      
