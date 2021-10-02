@@ -7,8 +7,7 @@ layout: page
 ## Education
 
 Geodetic Engineering
-
-Bicol University College of Enfineering
+Bicol University College of Engineering
 2018-Present
 
 ## Seminars/Trainings Attended
