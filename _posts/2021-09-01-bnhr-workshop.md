@@ -6,7 +6,7 @@ categories: page
 ---
 
 
-Installation
+Installation on Windows
 
 Open the [link](https://git-scm.com/download/win). The download should automatically begin, and you will arrive at the confirmation page shown. Execute the download exe file to begin the installation. 
 
@@ -47,7 +47,7 @@ Git will detect any new file you will place in the Working Directory. And you ch
 ![s4](https://user-images.githubusercontent.com/90082311/135717740-7efbf1b8-afde-4b7d-8012-416384184988.png)
 
 
-If we create a new file called README.md in the Working Directory, we will see that Git will know that the project has changed. Then we get the untracked files. Those are the files we modified (in this instance, created). The Staging Area is where your files go before the snapshots are taken. 
+If we create a new file called index.html in the Working Directory, we will see that Git will know that the project has changed. Then we get the untracked files. Those are the files we modified (in this instance, created). The Staging Area is where your files go before the snapshots are taken. 
 To add a file to the Staging Area, we use the Git command “add.” 
 
 ![s5](https://user-images.githubusercontent.com/90082311/135717800-127dd1b5-a718-44d3-9647-3a8d42af6355.png)
@@ -64,7 +64,7 @@ To commit all the changes we made, we use “git commit.” This will take a sna
 ![s7](https://user-images.githubusercontent.com/90082311/135717881-c7ed73c7-3cf0-4de9-991f-2e48509e8c9a.png)
 
 
-If we execute this command, it will open our default editor (check Chapter 2 if you want to modify yours) and ask us for a commit message. A commit message is a short description of what has changed in the commit compared to the previous one. 
+If we execute this command, it will open our default editor and ask us for a commit message. A commit message is a short description of what has changed in the commit compared to the previous one. 
 
 Checking logs and history 
 
@@ -88,9 +88,8 @@ Checking differences between the last commit and the current working directory i
 
 $ git diff 
 
-•	Ignoring files 
-•	Checking history logs 
-•	Reviewing local and staged changes 
+
+
 
 
 
