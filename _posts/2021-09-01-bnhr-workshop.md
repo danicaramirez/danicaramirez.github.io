@@ -69,9 +69,13 @@ If we execute this command, it will open our default editor and ask us for a com
 Checking logs and history 
 
 The commit log will list (from the most recent to the oldest) all the snapshots you or other people committed. It also includes, for each commit 
+
 •	The name (unique, obtained by hash) 
+
 •	The author 
+
 •	The date 
+
 •	The description 
 
 ![s8](https://user-images.githubusercontent.com/90082311/135717908-1b8661d4-3968-46bd-89c5-65b2d196df5a.png)
