@@ -2,7 +2,7 @@
 title:  "Community Project | Basure Kang Panalo: Jingle Making Contest"
 mathjax: false
 layout: post
-categories: media
+categories: page
 ---
 
 ![basure](https://user-images.githubusercontent.com/90082311/135706218-0ecbc466-8ce8-49cf-bd46-3729ae8c3cd9.png)
