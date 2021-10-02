@@ -45,7 +45,8 @@ Bicol University College of Engineering
   2018-Present
   
   
- ## Skil
+  
+## Skill
   - Basic Operations in Geographic Information System (GIS)
   
     ESRI’s ArcGIS 10.8 Software/QGIS 3.16 
