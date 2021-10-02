@@ -48,9 +48,9 @@ Bicol University College of Engineering
  ## Skill
   - Basic Operations in Geographic Information System (GIS)
   
-   ESRI’s ArcGIS 10.8 Software/QGIS 3.16 
+    ESRI’s ArcGIS 10.8 Software/QGIS 3.16 
    
-   Performing Query, Geoprocessing, Digitizing, Map/Charts Display
+    Performing Query, Geoprocessing, Digitizing, Map/Charts Display
 
  
 
