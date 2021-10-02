@@ -9,3 +9,4 @@ Attended by students and teachers of different high schools and colleges in the 
 After the lectures provided in the morning, members of the Youth Environment Leaders League prepared and conducted team building activities for the participants. The activities given made the event more enjoyable and memorable. It also allowed the participants to know one another and be able to build friendships.
 
 Participants also showed their artistic skills as they joined the Poster Making Contest held during the Youth Environment Forum and Arts Exhibit. After the contest-proper, the artworks were displayed and assessed by the judges according to originality and creativity, relevance to the theme and neatness of artwork.
+The event was made possible together with the support of the partners for the Environmental Conservation Sustaining Tiwi's Agri-Aqua Resources (ECOSTAR) Program.
