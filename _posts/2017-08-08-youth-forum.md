@@ -15,3 +15,6 @@ Participants also showed their artistic skills as they joined the Poster Making 
 The event was made possible together with the support of the partners for the Environmental Conservation Sustaining Tiwi's Agri-Aqua Resources (ECOSTAR) Program.
 
 ![forum1g](https://user-images.githubusercontent.com/90082311/135708824-68f104a4-2c84-481f-906f-28265dd96fc7.jpg)
+
+![forum2](https://user-images.githubusercontent.com/90082311/135708872-46be528d-9f3f-4207-a13e-a9be97a01356.jpg)
+
