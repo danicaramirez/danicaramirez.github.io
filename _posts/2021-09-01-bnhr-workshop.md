@@ -11,6 +11,8 @@ Installation
 Open the [link](https://git-scm.com/download/win). The download should automatically begin, and you will arrive at the confirmation page shown. Execute the download exe file to begin the installation. 
 
 
+![S1](https://user-images.githubusercontent.com/90082311/135712513-ce845d9d-2679-4b7e-ace3-79652b039e64.png)
+
 
 
 Setting up Git
