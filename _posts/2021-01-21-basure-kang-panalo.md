@@ -22,9 +22,7 @@ Mechanics:
 
 Criteria for Judging:
     * Creativity- 30%
-    
     * Lyric Content- 40%
-    
     * Melody- 30%
     
 Prizes:
