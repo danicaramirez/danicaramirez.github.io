@@ -1,6 +1,6 @@
 ---
 title:  "Community Project | Basure Kang Panalo: Jingle Making Contest"
-mathjax: false
+mathjax: true
 layout: post
 categories: media
 ---
