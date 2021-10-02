@@ -13,36 +13,38 @@ Bicol University College of Engineering
 2018-Present
 
 ## Seminars/Trainings Attended
+
+ - Java Programming Fundamentals
  
+   Department of Information and Communications Technology (DICT)
   
+   August 23-27, 2021
+  
+ - Python Programming Essentials
+ 
+   Department of Information and Communications Technology (DICT)
+  
+   September 6-18, 2021
+  
+
  - Python Programming Essentials
  
    Department of Information and Communications Technology (DICT)
   
    September 20, 2021 - October 1, 2021
    
-   
- - Python Programming Essentials
- 
-   Department of Information and Communications Technology (DICT)
-  
-   September 6-18, 2021
-   
-   
- - Java Programming Fundamentals
- 
-   Department of Information and Communications Technology (DICT)
-  
-   August 23-27, 2021
 
-## Based on
+## Scholarship
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+- Department of Science and Technology-
+
+Science Education Institute (DOST-SEI)
+
+Undergraduate Scholarship Program
+
+2018-Present
+
+
 
 ## Installation (jekyll-remote-theme method)
 
