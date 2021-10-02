@@ -20,7 +20,10 @@ Mechanics:
 10. Deadline for submission of entries is on January 31, 2020. Submission will automatically close at 4:00 pm.
 11. The decision of the judges in all aspects of the jingle making contest will be final and irrevocable.The announcement of winners will be on February 1, 2020 to be posted on our Facebook page. 
 
-Criteria for Judging: Creativity- 30% Lyric Content- 40% Melody- 30%
+Criteria for Judging: 
+  * Creativity- 30% 
+  * Lyric Content- 40% 
+  * Melody- 30%
     
 Prizes:
   *1st Runner Up: Php 2,000
