@@ -26,8 +26,9 @@ Criteria for Judging:
   * Melody- 30%
     
 Prizes:
-  *1st Runner Up: Php 2,000
-  *2nd Runner Up: Php 1,500
-  *3rd Runner Up: Php 1,000
+  * 1st Runner Up: Php 2,000
+  * 2nd Runner Up: Php 1,500 
+  * 3rd Runner Up: Php 1,000
+
 
 The event was made possible together with the support of the partners for the Environmental Conservation Sustaining Tiwi's Agri-Aqua Resources (ECOSTAR) Program.
