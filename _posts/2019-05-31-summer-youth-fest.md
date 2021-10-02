@@ -16,3 +16,5 @@ After the event, YELL extends its sincere gratitude to PGPC, ASCODE Foundation, 
 GSO headed by Sir Jose Claudio and TIWI ASENSO INC. (TFPASI, ABC-Tiwi, Corangon Care) for the support given to make this event possible.
 
 ![summeryouth_docu](https://user-images.githubusercontent.com/90082311/135708948-6a02f638-b14b-4550-9018-40b12d4ab530.jpg)
+
+![summeryouth_docu2](https://user-images.githubusercontent.com/90082311/135708990-822c26e4-287b-4517-b8f6-9c253b118c71.jpg)
