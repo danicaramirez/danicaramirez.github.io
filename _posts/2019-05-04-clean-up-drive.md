@@ -14,3 +14,6 @@ The organization hopes this effort will serve as a reminder to the residents to 
 “Our appeal to residents is to always clean their surroundings and dispose solid waste properly to reduce amount of wastes ending up in water bodies and waterways,” said Leonila V. Coralde, Municipal Agriculture Office.
 
 The Municipal Emergency Responders Team (MERT) of LGU-Tiwi also attended and assisted in the event.As compared to other clean up drives, the organizers launched team building activities this year for the youth. The youth volunteers actively took part in the amazing race. After the event, YELL expressed their sincere appreciation to the LGU-TIWI, PGPC and ASCODE for their unwavering support.
+
+![clean_up](https://user-images.githubusercontent.com/90082311/135709084-db410bf7-9771-49b1-b17d-8171c1b5066e.jpg)
+
