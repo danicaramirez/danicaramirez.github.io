@@ -14,11 +14,12 @@ Bicol University College of Enfineering
 ## Seminars/Trainings Attended
 
  - Java Programming Fundamentals
+ 
   Department of Information and Communications Technology (DICT)
   August 23-27, 2021
   
  - Python Programming Essentials
- - 
+ 
   Department of Information and Communications Technology (DICT)
   September 6-18, 2021
   
