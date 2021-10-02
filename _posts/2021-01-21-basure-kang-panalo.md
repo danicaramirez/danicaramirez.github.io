@@ -1,5 +1,5 @@
 ---
-title:  "Community Projects"
+title:  "Community Project | Basure Kang Panalo: Jingle Making Contest"
 mathjax: false
 layout: post
 categories: media
@@ -12,7 +12,7 @@ Mechanics:
 3. The jingle must not have been used in any previous competitions or commercially released (i.e., recorded and commercially distributed, sold to the public or uploaded in any online/social media platforms).
 4. The entry must revolve on this year's theme for Zero Waste Month celebration, "ZERO STARTS NOW: Reducing Waste, Sustaining Actions"
 5. The lyrics must be in Filipino, English or a combination of both.
-6. Participants will be required to submit a video of their jingle being performed by posting an entry in their Facebook wall including the hashtag #BaSUREkangPanaloChallenge #ZeroWasteMonth . The entry must not exceed a total of five (5) minutes.One or a combination of musical instruments may be used.
+6. Participants will be required to submit a video of their jingle being performed by posting an entry in their Facebook wall including the hashtag #BaSUREkangPanaloChallenge #ZeroWasteMonth. The entry must not exceed a total of five (5) minutes.One or a combination of musical instruments may be used.
 7. All song entries (musical composition/arrangement) shall be considered FINAL once posted, and cannot be modified or altered prior to the selection and announcement of winners.All entries submitted shall become the property of the organizers.
 8. Like the Youth Environment Leaders League page.
 9. Message us with the link of your public post together with your full name, contact number, address and lyrics of your entry.
