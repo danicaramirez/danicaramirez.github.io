@@ -88,6 +88,7 @@ To show and learn what changes have been done to your project, you just use the 
 
 
 Reviewing the current changes 
+
 Checking differences between the last commit and the current working directory is an essential feature of Git. The command to check differences is 
 
 $ git diff 
