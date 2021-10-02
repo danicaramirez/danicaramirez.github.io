@@ -27,7 +27,7 @@ Bicol University College of Engineering
    September 6-18, 2021
   
   - Python Programming Essentials
- 
+  
    Department of Information and Communications Technology (DICT)
   
    September 20, 2021 - October 1, 2021
