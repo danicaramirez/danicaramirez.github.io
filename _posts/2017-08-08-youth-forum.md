@@ -13,3 +13,5 @@ After the lectures provided in the morning, members of the Youth Environment Lea
 
 Participants also showed their artistic skills as they joined the Poster Making Contest held during the Youth Environment Forum and Arts Exhibit. After the contest-proper, the artworks were displayed and assessed by the judges according to originality and creativity, relevance to the theme and neatness of artwork.
 The event was made possible together with the support of the partners for the Environmental Conservation Sustaining Tiwi's Agri-Aqua Resources (ECOSTAR) Program.
+
+![forum1g](https://user-images.githubusercontent.com/90082311/135708824-68f104a4-2c84-481f-906f-28265dd96fc7.jpg)
