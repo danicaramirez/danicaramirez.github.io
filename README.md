@@ -16,21 +16,21 @@ Bicol University College of Engineering
 
  - Java Programming Fundamentals
  
-  Department of Information and Communications Technology (DICT)
+   Department of Information and Communications Technology (DICT)
   
-  August 23-27, 2021
+   August 23-27, 2021
   
  - Python Programming Essentials
  
-  Department of Information and Communications Technology (DICT)
+   Department of Information and Communications Technology (DICT)
   
-  September 6-18, 2021
+   September 6-18, 2021
   
   - Python Programming Essentials
  
-  Department of Information and Communications Technology (DICT)
+   Department of Information and Communications Technology (DICT)
   
-  September 20, 2021 - October 1, 2021
+   September 20, 2021 - October 1, 2021
 
 
 ## Based on
