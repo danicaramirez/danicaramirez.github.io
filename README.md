@@ -44,11 +44,15 @@ Bicol University College of Engineering
 
   2018-Present
   
+--------------------------------------------------------------------------------------------------------------------------------
+  
 ## BNHR Internship
 
 | Github Workshop
+
  
 Installation
+
 After opening the link (https://git- scm.com/download/win), the download should automatically begin, and you will arrive at the confirmation page shown. Execute the download exe file to begin the installation. 
 
 Setting up Git
