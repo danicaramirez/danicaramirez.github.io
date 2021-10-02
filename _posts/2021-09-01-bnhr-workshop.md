@@ -19,7 +19,9 @@ Setting up Git
 
 To set up Git, open Git Bash (for Windows systems) or the default console window (for Linux/MacOS or Windows systems that modified their PATH environment). In the command prompt, just tell Git your name and email address: 
 
+$ git config --global user.name "danicaramirez"
 
+$ git config --global user.email "danicadanissecondat.rmirez@bicol-u.edu.ph" 
 
 
 
