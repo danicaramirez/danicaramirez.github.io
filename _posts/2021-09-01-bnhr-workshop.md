@@ -8,7 +8,9 @@ categories: page
 
 Installation
 
-After opening the [link](https://git-scm.com/download/win), the download should automatically begin, and you will arrive at the confirmation page shown. Execute the download exe file to begin the installation. 
+Open the [link](https://git-scm.com/download/win). The download should automatically begin, and you will arrive at the confirmation page shown. Execute the download exe file to begin the installation. 
+
+![Screen Shot 2021-10-02 at 6 24 05 PM](https://user-images.githubusercontent.com/90082311/135712314-9e2759fa-c2e7-481d-ba4e-228ec120a088.png)
 
 
 Setting up Git
