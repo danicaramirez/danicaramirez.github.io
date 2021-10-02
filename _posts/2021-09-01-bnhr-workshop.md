@@ -20,7 +20,7 @@ To set up Git, open Git Bash (for Windows systems). In the command prompt, enter
 
 $ git config --global user.name "danicaramirez"
 
-$ git config --global user.email "danicadanissecondat.rmirez@bicol-u.edu.ph" 
+$ git config --global user.email "danicadanissecondat.ramirez@bicol-u.edu.ph" 
 
 
 
