@@ -38,11 +38,11 @@ Bicol University College of Engineering
 
 - Department of Science and Technology-
 
-Science Education Institute (DOST-SEI)
+ Science Education Institute (DOST-SEI)
 
-Undergraduate Scholarship Program
+ Undergraduate Scholarship Program
 
-2018-Present
+ 2018-Present
 
 
 
