@@ -4,22 +4,26 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## Education
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Geodetic Engineering
+Bicol University College of Enfineering
+2018-Present
 
-## Features
+## Seminars/Trainings Attended
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+ - Java Programming Fundamentals
+  Department of Information and Communications Technology (DICT)
+  August 23-27, 2021
+  
+ - Python Programming Essentials
+  Department of Information and Communications Technology (DICT)
+  September 6-18, 2021
+  
+  - Python Programming Essentials
+  Department of Information and Communications Technology (DICT)
+  September 20, 2021 - October 1, 2021
+
 
 ## Based on
 
