@@ -4,6 +4,8 @@ mathjax: false
 layout: post
 categories: media
 ---
+
+![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
   January of every year is declared as Zero Waste Month as mandated by Presidential Proclamation no 760. The theme for this year’s celebration is “ZERO STARTS NOW: Reducing Waste, Sustaining Actions”. The Youth Environment Leaders League (YELL) supports and promotes this celebration by conducting an online Jingle Making Contest dubbed as BaSURE Kang Panalo Challenge!. The contest is part of our advocacy to help inspire everyone to participate in sustainable waste management practices. The winning entries will be used by the organizers in its advocacy, promotions, and other related activities.
   
 Mechanics:
