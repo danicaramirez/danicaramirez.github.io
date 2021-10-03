@@ -6,7 +6,7 @@ categories: page
 ---
 
 
-Installation on Windows
+# Installation on Windows
 
 To begin installation, click the [link](https://git-scm.com/download/win).
 
@@ -14,7 +14,7 @@ To begin installation, click the [link](https://git-scm.com/download/win).
 ![S1](https://user-images.githubusercontent.com/90082311/135712513-ce845d9d-2679-4b7e-ace3-79652b039e64.png)
 
 
-Setting up Git
+# Setting up Git
 
 To set up Git, open Git Bash (for Windows systems). In the command prompt, enter the commands shown including your name and email address: 
 
@@ -61,7 +61,7 @@ To commit all the changes we made:
 ![s7](https://user-images.githubusercontent.com/90082311/135717881-c7ed73c7-3cf0-4de9-991f-2e48509e8c9a.png)
 
 
-Checking logs and history 
+# Checking logs and history 
 
 The commit log will list (from the most recent to the oldest) all the snapshots you or other people committed. It also includes, for each commit 
 
@@ -82,7 +82,7 @@ To show and learn what changes have been done to your project, you just use the 
 ![s9](https://user-images.githubusercontent.com/90082311/135717931-8fb96955-b80e-4a11-b2c8-91d32f57aacc.png)
 
 
-Reviewing the current changes 
+# Reviewing the current changes 
 
 Checking differences between the last commit and the current working directory is an essential feature of Git. The command to check differences is 
 
