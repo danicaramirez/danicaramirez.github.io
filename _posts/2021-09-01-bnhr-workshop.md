@@ -19,9 +19,9 @@ To begin installation, click the [link](https://git-scm.com/download/win).
 To set up Git, open Git Bash (for Windows systems). In the command prompt, enter the commands shown including your name and email address: 
 
 
-` $ git config --global user.name "danicaramirez" `
+  `$ git config --global user.name "danicaramirez"`
 
-` $ git config --global user.email "danicadanissecondat.ramirez@bicol-u.edu.ph" `
+  `$ git config --global user.email "danicadanissecondat.ramirez@bicol-u.edu.ph"`
 
 
 # Starting a Project
