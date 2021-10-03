@@ -6,7 +6,7 @@ layout: page
 
 ## Education
 
-Geodetic Engineering
+BS Geodetic Engineering
 
 Bicol University College of Engineering
 
